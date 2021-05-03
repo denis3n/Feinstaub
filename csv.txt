@@ -1,0 +1,4 @@
+Als erstes wird die Sensor ID sowie Sensor Typ angezeigt
+Danach kommen die Location mit den lat und lon Werten
+Daraufhin die Zeit des Messens sowie die Altitude
+Zuletzt wird der Druck, Temperatur und Feuchtigkeit
